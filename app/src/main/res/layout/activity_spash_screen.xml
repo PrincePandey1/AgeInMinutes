@@ -13,26 +13,19 @@
 
     <ImageView
         android:id="@+id/news_icon"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/News_pro" />
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:src="@drawable/age_in_minute" />
 
     <TextView
         android:id="@+id/News_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="@string/uptodate"
+        android:text="@string/ageinminutes"
         android:textColor="@color/grey"
         android:textSize="40sp"
         android:textStyle="bold" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/connect_you_to_the_world"
-        android:textStyle="italic"
-        android:textSize="15sp"
-        android:layout_marginTop="5dp"
-        />
+
 </LinearLayout>

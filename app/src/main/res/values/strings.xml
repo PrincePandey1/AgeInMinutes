@@ -4,5 +4,6 @@
     <string name="age">AGE</string>
     <string name="uptodate">UpToDate</string>
     <string name="connect_you_to_the_world">Connect you to the world...</string>
+    <string name="ageinminutes">AgeInMinutes</string>
 
 </resources>
